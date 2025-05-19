@@ -63,3 +63,12 @@ else:
         print("You won!")
     else:
         print("Computer won!")
+
+
+
+
+
+
+"""just a simple rock paper scissor game 
+   if it is help full so yeahh keep watching my repo'ssssssssss........
+   """
